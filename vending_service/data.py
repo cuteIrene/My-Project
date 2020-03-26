@@ -4,3 +4,5 @@ class Drink:
      self.price = new_price
 
 
+
+print("hihihi")
